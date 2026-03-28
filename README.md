@@ -19,11 +19,11 @@
 Databoard Interaction <a href="https://github.com/MedaSneha/Amazon_Sales_Analysis/blob/main/Amazon%20Sales%20Dashboard.png">View Dashboard</a>
 
 ## Process
-Understand the business requirements and dataset
-Clean the data by removing duplicates and fixing errors
-Use pivot tables to analyze sales, revenue, and customer behavior
-Create charts and build a dashboard with KPI cards
-Generate insights and give recommendations to improve business performance
+- Understand the business requirements and dataset.
+- Clean the data by removing duplicates and fixing errors.
+- Use pivot tables to analyze sales, revenue, and customer behaviour.
+- Create charts and build a dashboard with KPI cards.
+- Generate insights and give recommendations to improve business performance.
 
 ## Dashboard
 <a href="https://github.com/MedaSneha/Amazon_Sales_Analysis/blob/main/Amazon%20Sales%20Dashboard.png">Dashboard</a>
