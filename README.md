@@ -4,16 +4,17 @@
 ## Dataset used
 <a href="https://github.com/MedaSneha/Amazon_Sales_Analysis/blob/main/Amazon%20Sales.xlsx">Dataset</a>
 ## Questions (KPIs)
-What is the overall business performance?
-Which category generates the highest revenue?
-Which category has the lowest revenue?
-Which month has the lowest sales?
-Which category has the highest rating?
-Are ratings consistent across categories?
-Which region generates the highest revenue?
-Which payment method is most used?
-Does discount affect quantity sold?
-Do top products contribute significantly to revenue?
+
+- What is the overall business performance?
+- Which category generates the highest revenue?
+- Which category has the lowest revenue?
+- Which month has the lowest sales?
+- Which category has the highest rating?
+- Are ratings consistent across categories?
+- Which region generates the highest revenue?
+- Which payment method is most used?
+- Does discount affect quantity sold?
+- Do top products contribute significantly to revenue?
 
 Databoard Interaction <a href="https://github.com/MedaSneha/Amazon_Sales_Analysis/blob/main/Amazon%20Sales%20Dashboard.png">View Dashboard</a>
 
